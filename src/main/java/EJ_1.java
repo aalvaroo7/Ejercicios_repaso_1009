@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio_op_aritmeticas {
+public class EJ_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
